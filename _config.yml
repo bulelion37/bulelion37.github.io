@@ -21,7 +21,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://bulelion37.github.io/" # the base hostname & protocol for your site
 cover: "/assets/charcoal.jpg"
-logo: "/assets/monet.jpg"
+logo: "/assets/grey.png"
 
 # Build settings
 markdown: kramdown
